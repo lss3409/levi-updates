@@ -1,0 +1,16 @@
+{
+  "code": 711,
+  "version": "v711",
+  "created_at": "2026-10-02",
+  "default_cloud_drive": "",
+  "cloud_drives": [],
+  "files": [
+    {
+      "file_name": "LeviLauncher-mod.apk",
+      "uri": "https://github.com/lss3409/levi-updates/releases/latest/download/LeviLauncher-mod.apk",
+      "arch": "arm64",
+      "size": 82155507
+    }
+  ],
+  "body": "v711：启动器检查更新上线；主页卡片官方比例；导入扫描优化；联机恒久化恢复"
+}
